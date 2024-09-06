@@ -1,5 +1,8 @@
 # Fatec Jahu Workshop JS
 
+por: Vinicius da Silva do Nascimento - 2º DSM
+
+
 Corrija o código a abaixo.
 
 ```js
